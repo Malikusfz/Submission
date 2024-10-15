@@ -2,6 +2,8 @@
 
 Welcome to the Dicoding Collection Dashboard project! This project is focused on analyzing air quality data collected from various monitoring stations in Beijing, China. The data, spanning several years, provides insights into pollution trends, correlations among different pollutants, seasonal variations, and the impact of peak and non-peak hours on air quality. The dashboard was built using **Streamlit** to make the analysis interactive and accessible to users.
 
+You can access the dashboard here: [Dicoding Collection Dashboard](https://malikusfz-submission-dashboardmain-iyobwq.streamlit.app/)
+
 ## Project Overview
 
 The purpose of this project is to explore air quality data from multiple monitoring stations in Beijing, with a focus on visualizing and understanding the relationships between different pollutants, seasonal patterns, and variations during different times of the day. This interactive dashboard makes use of **Pandas**, **Matplotlib**, and **Seaborn** for data analysis and visualization.
@@ -119,4 +121,3 @@ SUBMISSION/
 ## License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute it as long as proper credit is given.
-

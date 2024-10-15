@@ -1,1 +1,1 @@
-https://malikusfz-submission-dashboardmain-iyobwq.streamlit.app/
+https://air-quality-submission.streamlit.app/
